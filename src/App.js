@@ -1,12 +1,16 @@
 import Header  from "./components/Header";
 import Form from "./components/TextForm"
 
+import React,{useState} from "react";
+
 function App() {
+
   return (
     <div>
       <Header />
+    
       <div className="container">
-         <Form />
+         <Form  />
 
     </div>
 
