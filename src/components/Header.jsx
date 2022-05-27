@@ -3,7 +3,7 @@ export default function Header(){
         <div>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">TextUtils</a>
+    <h1 className="text-light">TextUtils</h1>
     
     
     </div>
